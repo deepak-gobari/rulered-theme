@@ -1,0 +1,32 @@
+{
+  "name": "rulered-theme",
+  "displayName": "RuleRED Theme",
+  "description": "RuleRED VS Code Theme",
+  "version": "0.0.0",
+  "publisher": "RuleRED",
+  "license": "MIT",
+  "engines": {
+    "vscode": "^1.146.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/deepak-gobari/rulered-theme.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "RuleRED Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dark.json"
+      },
+      {
+        "label": "RuleRED Light",
+        "uiTheme": "vs",
+        "path": "./themes/light.json"
+      }
+    ]
+  }
+}

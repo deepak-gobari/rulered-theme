@@ -1,0 +1,10 @@
+{
+  "name": "RuleRED Light",
+  "semanticHighlighting": true,
+  "colors": {
+    "editor.background": "#ffffff",
+    "editor.foreground": "#1a1a1a"
+  },
+  "tokenColors": [],
+  "semanticTokenColors": {}
+}
