@@ -2,7 +2,7 @@
   "name": "rulered-theme",
   "displayName": "RuleRED Theme",
   "description": "RuleRED VS Code Theme",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "publisher": "RuleRED",
   "license": "MIT",
   "engines": {

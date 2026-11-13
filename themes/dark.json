@@ -3,7 +3,21 @@
   "semanticHighlighting": true,
   "colors": {
     "editor.background": "#000000",
-    "editor.foreground": "#e6e6e6"
+    "editor.foreground": "#e6e6e6",
+    "editor.border": "#1a1a1a",
+    "editorGroupHeader.tabsBackground": "#1a1a1a",
+    "editorGroupHeader.tabsBorder": "#1a1a1a",
+    "sideBar.background": "#000000",
+    "sideBar.foreground": "#cccccc",
+    "sideBarTitle.foreground": "#e6e6e6",
+    "sideBarSectionHeader.foreground": "#cccccc",
+    "sideBarSectionHeader.border": "#333333",
+    "statusBar.background": "#1a1a1a",
+    "statusBar.foreground": "#808080",
+    "titleBar.activeBackground": "#1a1a1a",
+    "titleBar.activeForeground": "#808080",
+    "titleBar.inactiveBackground": "#1a1a1a",
+    "titleBar.inactiveForeground": "#808080"
   },
   "tokenColors": [],
   "semanticTokenColors": {}
